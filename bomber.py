@@ -1,4 +1,4 @@
-import requests, requests, datetime, sys, time, argparse, os
+import requests, requests, datetime, sys, time, argparse, os,random
 from colorama import Fore, Back, Style
 delet = 'clear'
 print('[##]5%')
